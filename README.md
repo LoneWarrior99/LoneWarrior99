@@ -1,13 +1,10 @@
 # Hello, I'm Khang
 <a href="https://www.linkedin.com/in/khang-nguyen-838905240"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
 
 I am an aspiring hacker who has been studying Cybersecurity fundamentals for 2 years. I am passionate about learning and elevating my skills.
 
 ## Objective
-[Provide Objective]]
-
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
