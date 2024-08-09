@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/khang-nguyen-838905240"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an aspiring hacker who has been studying IT and Cybersecurity fundamentals for 2 years. I am passionate about learning and elevating my skills.
+I am an aspiring pentester who has been studying IT and Cybersecurity fundamentals for 2 years. I am passionate about learning and elevating my skills.
 
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
