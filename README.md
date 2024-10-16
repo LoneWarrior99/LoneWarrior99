@@ -5,7 +5,7 @@
 I am an aspiring pentester who has been studying IT and Cybersecurity fundamentals for 2 years. I am passionate about learning and elevating my skills.
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or a similar role.
 
 ## Skills
 
