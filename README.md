@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Cyber Security Python Tools                   | <a href="https://github.com/LoneWarrior99/Python-Projects">Python Tools</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/LoneWarrior99/SOC-Training/blob/main/Wireshark%20Traffic%20Analysis.md">Wireshark Network Analysis</a>|
 | Website Vulnerabilities                       | <a href="https://github.com/LoneWarrior99/SOC-Training/blob/main/owasp%20juice%20shop.md">OWASP Juice Shop</a> |
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/LoneWarrior99/Active-Directory">Active Directory - In Progress /a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/LoneWarrior99/Active-Directory">Active Directory - In Progress</a>|
 | Incident Response Planning and Execution      | In Progress |
 | Case Management with TheHive                  | In Progress |
 | Scripting and Automation for Threat Mitigation | In Progress |
@@ -28,7 +28,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wazuh-blue" />
 </div>
 
 ### SIEM
