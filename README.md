@@ -7,7 +7,7 @@ I am an aspiring pentester who has been studying IT and Cybersecurity fundamenta
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or a similar role.
 
-## Skills
+## Skills and Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -40,8 +40,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Lvl%201-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+
 </div>
 
-## Projects
-- <a href="https://github.com/LoneWarrior99/Python-Projects/tree/main">Cyber Security Focused Python Tools</a>
-- <a href="https://github.com/LoneWarrior99/SOC-Training">TryHackMe SOC Level 1 Training</a>
