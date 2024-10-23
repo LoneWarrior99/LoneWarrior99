@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/LoneWarrior99/SOC-Training/blob/main/Wireshark%20Traffic%20Analysis.md">Wireshark Network Analysis</a>|
 | Website Vulnerabilities                       | <a href="https://github.com/LoneWarrior99/SOC-Training/blob/main/owasp%20juice%20shop.md">OWASP Juice Shop</a> |
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/LoneWarrior99/Active-Directory">Active Directory - In Progress</a>|
-| Incident Response Planning and Execution      | In Progress |
+| Incident Handling with Splunk                    | <a href="https://github.com/LoneWarrior99/SOC-Training/blob/main/Incident%20Handling%20Splunk.md">Incident Handling</a> |
 | Case Management with TheHive                  | In Progress |
 | Scripting and Automation for Threat Mitigation | In Progress |
 
